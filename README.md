@@ -13,6 +13,6 @@ Run `pip install git+https://github.com/BeamNG/sphinx-lua`.
 
 Then, add ``sphinx-lua`` to your conf.py:
 
-    extensions = ['sphinx_lua']
+    extensions = ['sphinx_lua.lua']
 
 Fork of https://github.com/redjack/sphinx-lua
